@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[AKF]]></title>
-  <link href="http://fadliawan.github.io/atom.xml" rel="self"/>
-  <link href="http://fadliawan.github.io/"/>
-  <updated>2016-03-31T00:35:07+07:00</updated>
-  <id>http://fadliawan.github.io/</id>
+  <link href="http://fadliawan.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://fadliawan.github.io/blog/"/>
+  <updated>2016-03-31T00:38:47+07:00</updated>
+  <id>http://fadliawan.github.io/blog/</id>
   <author>
     <name><![CDATA[Alan K Fadliawan]]></name>
     
