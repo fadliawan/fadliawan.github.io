@@ -4,7 +4,7 @@
   <title><![CDATA[AKF]]></title>
   <link href="http://fadliawan.github.io/blog/atom.xml" rel="self"/>
   <link href="http://fadliawan.github.io/blog/"/>
-  <updated>2016-04-03T09:50:27+07:00</updated>
+  <updated>2016-04-03T10:03:30+07:00</updated>
   <id>http://fadliawan.github.io/blog/</id>
   <author>
     <name><![CDATA[Alan K Fadliawan]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Post in Octopress]]></title>
-    <link href="http://fadliawan.github.io/blog/blog/2016/03/31/first-post-in-octopress/"/>
+    <link href="http://fadliawan.github.io/blog/2016/03/31/first-post-in-octopress/"/>
     <updated>2016-03-31T00:58:05+07:00</updated>
-    <id>http://fadliawan.github.io/blog/blog/2016/03/31/first-post-in-octopress</id>
+    <id>http://fadliawan.github.io/blog/2016/03/31/first-post-in-octopress</id>
     <content type="html"><![CDATA[<p>I really want to blog.</p>
 
 <!-- more -->
