@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "First Post in Octopress"
+title: "First Post"
 date: 2016-03-31 00:58:05 +0700
 comments: true
-categories:
+categories: journal code life
 ---
 
-I really want to blog.
+``` javascript
+ __  __  ______  __      __      ______       __     __  ______  ______  __      _____
+/\ \_\ \/\  ___\/\ \    /\ \    /\  __ \     /\ \  _ \ \/\  __ \/\  == \/\ \    /\  __-.
+\ \  __ \ \  __\\ \ \___\ \ \___\ \ \/\ \    \ \ \/ ".\ \ \ \/\ \ \  __<\ \ \___\ \ \/\ \
+ \ \_\ \_\ \_____\ \_____\ \_____\ \_____\    \ \__/".~\_\ \_____\ \_\ \_\ \_____\ \____-
+  \/_/\/_/\/_____/\/_____/\/_____/\/_____/     \/_/   \/_/\/_____/\/_/ /_/\/_____/\/____/
+```
 
 <!-- more -->
 
-Blogging makes me happy.
+Saying hello to the world.
+
+ASCII art by [patorjk.com](http://patorjk.com/software/taag/).
