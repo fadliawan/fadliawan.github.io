@@ -4,7 +4,7 @@
   <title><![CDATA[AKF]]></title>
   <link href="http://fadliawan.github.io/blog/atom.xml" rel="self"/>
   <link href="http://fadliawan.github.io/blog/"/>
-  <updated>2016-04-06T07:33:01+07:00</updated>
+  <updated>2016-04-06T09:55:32+07:00</updated>
   <id>http://fadliawan.github.io/blog/</id>
   <author>
     <name><![CDATA[Alan K Fadliawan]]></name>
@@ -14,16 +14,31 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Post in Octopress]]></title>
+    <title type="html"><![CDATA[First Post]]></title>
     <link href="http://fadliawan.github.io/blog/2016/03/31/first-post-in-octopress/"/>
     <updated>2016-03-31T00:58:05+07:00</updated>
     <id>http://fadliawan.github.io/blog/2016/03/31/first-post-in-octopress</id>
-    <content type="html"><![CDATA[<p>I really want to blog.</p>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='javascript'><span class='line'> <span class="nx">__</span>  <span class="nx">__</span>  <span class="nx">______</span>  <span class="nx">__</span>      <span class="nx">__</span>      <span class="nx">______</span>       <span class="nx">__</span>     <span class="nx">__</span>  <span class="nx">______</span>  <span class="nx">______</span>  <span class="nx">__</span>      <span class="nx">_____</span>
+</span><span class='line'><span class="o">/</span><span class="err">\</span> <span class="err">\</span><span class="nx">_</span><span class="err">\</span> <span class="err">\</span><span class="o">/</span><span class="err">\</span>  <span class="nx">___</span><span class="err">\</span><span class="o">/</span><span class="err">\</span> <span class="err">\</span>    <span class="o">/</span><span class="err">\</span> <span class="err">\</span>    <span class="o">/</span><span class="err">\</span>  <span class="nx">__</span> <span class="err">\</span>     <span class="o">/</span><span class="err">\</span> <span class="err">\</span>  <span class="nx">_</span> <span class="err">\</span> <span class="err">\</span><span class="o">/</span><span class="err">\</span>  <span class="nx">__</span> <span class="err">\</span><span class="o">/</span><span class="err">\</span>  <span class="o">==</span> <span class="err">\</span><span class="o">/</span><span class="err">\</span> <span class="err">\</span>    <span class="o">/</span><span class="err">\</span>  <span class="nx">__</span><span class="o">-</span><span class="p">.</span>
+</span><span class='line'><span class="err">\</span> <span class="err">\</span>  <span class="nx">__</span> <span class="err">\</span> <span class="err">\</span>  <span class="nx">__</span><span class="err">\\</span> <span class="err">\</span> <span class="err">\</span><span class="nx">___</span><span class="err">\</span> <span class="err">\</span> <span class="err">\</span><span class="nx">___</span><span class="err">\</span> <span class="err">\</span> <span class="err">\</span><span class="o">/</span><span class="err">\</span> <span class="err">\</span>    <span class="err">\</span> <span class="err">\</span> <span class="err">\</span><span class="o">/</span> <span class="s2">&quot;.\ \ \ \/\ \ \  __&lt;\ \ \___\ \ \/\ \</span>
+</span><span class='line'><span class="s2"> \ \_\ \_\ \_____\ \_____\ \_____\ \_____\    \ \__/&quot;</span><span class="p">.</span><span class="o">~</span><span class="err">\</span><span class="nx">_</span><span class="err">\</span> <span class="err">\</span><span class="nx">_____</span><span class="err">\</span> <span class="err">\</span><span class="nx">_</span><span class="err">\</span> <span class="err">\</span><span class="nx">_</span><span class="err">\</span> <span class="err">\</span><span class="nx">_____</span><span class="err">\</span> <span class="err">\</span><span class="nx">____</span><span class="o">-</span>
+</span><span class='line'>  <span class="err">\</span><span class="o">/</span><span class="nx">_</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">_</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">_____</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">_____</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">_____</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">_____</span><span class="o">/</span>     <span class="err">\</span><span class="o">/</span><span class="nx">_</span><span class="o">/</span>   <span class="err">\</span><span class="o">/</span><span class="nx">_</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">_____</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">_</span><span class="o">/</span> <span class="sr">/_/</span><span class="err">\</span><span class="o">/</span><span class="nx">_____</span><span class="o">/</span><span class="err">\</span><span class="o">/</span><span class="nx">____</span><span class="o">/</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
 
 <!-- more -->
 
 
-<p>Blogging makes me happy.</p>
+<p>Saying hello to the world.</p>
+
+<p>ASCII art by <a href="http://patorjk.com/software/taag/">patorjk.com</a>.</p>
 ]]></content>
   </entry>
   
