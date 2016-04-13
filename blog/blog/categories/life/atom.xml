@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | AKF]]></title>
   <link href="http://fadliawan.github.io/blog/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://fadliawan.github.io/blog/"/>
-  <updated>2016-04-06T09:55:32+07:00</updated>
+  <updated>2016-04-13T10:38:15+07:00</updated>
   <id>http://fadliawan.github.io/blog/</id>
   <author>
     <name><![CDATA[Alan K Fadliawan]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://fadliawan.github.io/blog/2016/03/31/first-post-in-octopress/"/>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://fadliawan.github.io/blog/2016/03/31/hello/"/>
     <updated>2016-03-31T00:58:05+07:00</updated>
-    <id>http://fadliawan.github.io/blog/2016/03/31/first-post-in-octopress</id>
+    <id>http://fadliawan.github.io/blog/2016/03/31/hello</id>
     <content type="html"><![CDATA[<pre><code class="javascript"> __  __  ______  __      __      ______       __     __  ______  ______  __      _____
 /\ \_\ \/\  ___\/\ \    /\ \    /\  __ \     /\ \  _ \ \/\  __ \/\  == \/\ \    /\  __-.
 \ \  __ \ \  __\\ \ \___\ \ \___\ \ \/\ \    \ \ \/ ".\ \ \ \/\ \ \  __&lt;\ \ \___\ \ \/\ \
